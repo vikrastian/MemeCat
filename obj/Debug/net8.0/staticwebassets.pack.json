@@ -1,0 +1,165 @@
+{
+  "Files": [
+    {
+      "Id": "/home/pc/aspCorePath/memeTest/for Lecture/MemeCat/obj/Debug/net8.0/scopedcss/projectbundle/MemeCat.bundle.scp.css",
+      "PackagePath": "staticwebassets/MemeCat.bundle.scp.css"
+    },
+    {
+      "Id": "/home/pc/aspCorePath/memeTest/for Lecture/MemeCat/wwwroot/app.css",
+      "PackagePath": "staticwebassets/app.css"
+    },
+    {
+      "Id": "/home/pc/aspCorePath/memeTest/for Lecture/MemeCat/wwwroot/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/home/pc/aspCorePath/memeTest/for Lecture/MemeCat/wwwroot/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/home/pc/aspCorePath/memeTest/for Lecture/MemeCat/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "/home/pc/aspCorePath/memeTest/for Lecture/MemeCat/wwwroot/images/angry.gif",
+      "PackagePath": "staticwebassets/images/angry.gif"
+    },
+    {
+      "Id": "/home/pc/aspCorePath/memeTest/for Lecture/MemeCat/wwwroot/images/angry.jpeg",
+      "PackagePath": "staticwebassets/images/angry.jpeg"
+    },
+    {
+      "Id": "/home/pc/aspCorePath/memeTest/for Lecture/MemeCat/wwwroot/images/angry2.gif",
+      "PackagePath": "staticwebassets/images/angry2.gif"
+    },
+    {
+      "Id": "/home/pc/aspCorePath/memeTest/for Lecture/MemeCat/wwwroot/images/angry2.jpeg",
+      "PackagePath": "staticwebassets/images/angry2.jpeg"
+    },
+    {
+      "Id": "/home/pc/aspCorePath/memeTest/for Lecture/MemeCat/wwwroot/images/angry3.jpeg",
+      "PackagePath": "staticwebassets/images/angry3.jpeg"
+    },
+    {
+      "Id": "/home/pc/aspCorePath/memeTest/for Lecture/MemeCat/wwwroot/images/confused.gif",
+      "PackagePath": "staticwebassets/images/confused.gif"
+    },
+    {
+      "Id": "/home/pc/aspCorePath/memeTest/for Lecture/MemeCat/wwwroot/images/confused.jpeg",
+      "PackagePath": "staticwebassets/images/confused.jpeg"
+    },
+    {
+      "Id": "/home/pc/aspCorePath/memeTest/for Lecture/MemeCat/wwwroot/images/confused2.gif",
+      "PackagePath": "staticwebassets/images/confused2.gif"
+    },
+    {
+      "Id": "/home/pc/aspCorePath/memeTest/for Lecture/MemeCat/wwwroot/images/dominant.gif",
+      "PackagePath": "staticwebassets/images/dominant.gif"
+    },
+    {
+      "Id": "/home/pc/aspCorePath/memeTest/for Lecture/MemeCat/wwwroot/images/dominant.jpeg",
+      "PackagePath": "staticwebassets/images/dominant.jpeg"
+    },
+    {
+      "Id": "/home/pc/aspCorePath/memeTest/for Lecture/MemeCat/wwwroot/images/happy.gif",
+      "PackagePath": "staticwebassets/images/happy.gif"
+    },
+    {
+      "Id": "/home/pc/aspCorePath/memeTest/for Lecture/MemeCat/wwwroot/images/happy.jpeg",
+      "PackagePath": "staticwebassets/images/happy.jpeg"
+    },
+    {
+      "Id": "/home/pc/aspCorePath/memeTest/for Lecture/MemeCat/wwwroot/images/hungry.gif",
+      "PackagePath": "staticwebassets/images/hungry.gif"
+    },
+    {
+      "Id": "/home/pc/aspCorePath/memeTest/for Lecture/MemeCat/wwwroot/images/hungry.jpeg",
+      "PackagePath": "staticwebassets/images/hungry.jpeg"
+    },
+    {
+      "Id": "/home/pc/aspCorePath/memeTest/for Lecture/MemeCat/wwwroot/images/hungry1.jpeg",
+      "PackagePath": "staticwebassets/images/hungry1.jpeg"
+    },
+    {
+      "Id": "/home/pc/aspCorePath/memeTest/for Lecture/MemeCat/wwwroot/images/hungry2.gif",
+      "PackagePath": "staticwebassets/images/hungry2.gif"
+    },
+    {
+      "Id": "/home/pc/aspCorePath/memeTest/for Lecture/MemeCat/wwwroot/images/insomnia.gif",
+      "PackagePath": "staticwebassets/images/insomnia.gif"
+    },
+    {
+      "Id": "/home/pc/aspCorePath/memeTest/for Lecture/MemeCat/wwwroot/images/insomnia.jpeg",
+      "PackagePath": "staticwebassets/images/insomnia.jpeg"
+    },
+    {
+      "Id": "/home/pc/aspCorePath/memeTest/for Lecture/MemeCat/wwwroot/images/insomnia1.jpeg",
+      "PackagePath": "staticwebassets/images/insomnia1.jpeg"
+    },
+    {
+      "Id": "/home/pc/aspCorePath/memeTest/for Lecture/MemeCat/wwwroot/images/insomnia2.gif",
+      "PackagePath": "staticwebassets/images/insomnia2.gif"
+    },
+    {
+      "Id": "/home/pc/aspCorePath/memeTest/for Lecture/MemeCat/wwwroot/images/lazy.gif",
+      "PackagePath": "staticwebassets/images/lazy.gif"
+    },
+    {
+      "Id": "/home/pc/aspCorePath/memeTest/for Lecture/MemeCat/wwwroot/images/lazy.jpeg",
+      "PackagePath": "staticwebassets/images/lazy.jpeg"
+    },
+    {
+      "Id": "/home/pc/aspCorePath/memeTest/for Lecture/MemeCat/wwwroot/images/nervous.gif",
+      "PackagePath": "staticwebassets/images/nervous.gif"
+    },
+    {
+      "Id": "/home/pc/aspCorePath/memeTest/for Lecture/MemeCat/wwwroot/images/nervous.jpeg",
+      "PackagePath": "staticwebassets/images/nervous.jpeg"
+    },
+    {
+      "Id": "/home/pc/aspCorePath/memeTest/for Lecture/MemeCat/wwwroot/images/nervous2.gif",
+      "PackagePath": "staticwebassets/images/nervous2.gif"
+    },
+    {
+      "Id": "/home/pc/aspCorePath/memeTest/for Lecture/MemeCat/wwwroot/images/pumpkin.png",
+      "PackagePath": "staticwebassets/images/pumpkin.png"
+    },
+    {
+      "Id": "/home/pc/aspCorePath/memeTest/for Lecture/MemeCat/wwwroot/images/relaxed2.gif",
+      "PackagePath": "staticwebassets/images/relaxed2.gif"
+    },
+    {
+      "Id": "/home/pc/aspCorePath/memeTest/for Lecture/MemeCat/wwwroot/images/sad.gif",
+      "PackagePath": "staticwebassets/images/sad.gif"
+    },
+    {
+      "Id": "/home/pc/aspCorePath/memeTest/for Lecture/MemeCat/wwwroot/images/sad.jpeg",
+      "PackagePath": "staticwebassets/images/sad.jpeg"
+    },
+    {
+      "Id": "/home/pc/aspCorePath/memeTest/for Lecture/MemeCat/wwwroot/images/sad1.jpeg",
+      "PackagePath": "staticwebassets/images/sad1.jpeg"
+    },
+    {
+      "Id": "/home/pc/aspCorePath/memeTest/for Lecture/MemeCat/wwwroot/images/sleepy.jpeg",
+      "PackagePath": "staticwebassets/images/sleepy.jpeg"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.MemeCat.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.MemeCat.props",
+      "PackagePath": "build\\MemeCat.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.MemeCat.props",
+      "PackagePath": "buildMultiTargeting\\MemeCat.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.MemeCat.props",
+      "PackagePath": "buildTransitive\\MemeCat.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

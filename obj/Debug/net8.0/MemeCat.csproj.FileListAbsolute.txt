@@ -1,0 +1,56 @@
+/home/pc/aspCorePath/memeTest/MemeCat/bin/Debug/net8.0/appsettings.Development.json
+/home/pc/aspCorePath/memeTest/MemeCat/bin/Debug/net8.0/appsettings.json
+/home/pc/aspCorePath/memeTest/MemeCat/bin/Debug/net8.0/MemeCat.staticwebassets.runtime.json
+/home/pc/aspCorePath/memeTest/MemeCat/bin/Debug/net8.0/MemeCat
+/home/pc/aspCorePath/memeTest/MemeCat/bin/Debug/net8.0/MemeCat.deps.json
+/home/pc/aspCorePath/memeTest/MemeCat/bin/Debug/net8.0/MemeCat.runtimeconfig.json
+/home/pc/aspCorePath/memeTest/MemeCat/bin/Debug/net8.0/MemeCat.dll
+/home/pc/aspCorePath/memeTest/MemeCat/bin/Debug/net8.0/MemeCat.pdb
+/home/pc/aspCorePath/memeTest/MemeCat/obj/Debug/net8.0/MemeCat.GeneratedMSBuildEditorConfig.editorconfig
+/home/pc/aspCorePath/memeTest/MemeCat/obj/Debug/net8.0/MemeCat.AssemblyInfoInputs.cache
+/home/pc/aspCorePath/memeTest/MemeCat/obj/Debug/net8.0/MemeCat.AssemblyInfo.cs
+/home/pc/aspCorePath/memeTest/MemeCat/obj/Debug/net8.0/MemeCat.csproj.CoreCompileInputs.cache
+/home/pc/aspCorePath/memeTest/MemeCat/obj/Debug/net8.0/MemeCat.MvcApplicationPartsAssemblyInfo.cache
+/home/pc/aspCorePath/memeTest/MemeCat/obj/Debug/net8.0/staticwebassets.build.json
+/home/pc/aspCorePath/memeTest/MemeCat/obj/Debug/net8.0/staticwebassets.development.json
+/home/pc/aspCorePath/memeTest/MemeCat/obj/Debug/net8.0/staticwebassets/msbuild.MemeCat.Microsoft.AspNetCore.StaticWebAssets.props
+/home/pc/aspCorePath/memeTest/MemeCat/obj/Debug/net8.0/staticwebassets/msbuild.build.MemeCat.props
+/home/pc/aspCorePath/memeTest/MemeCat/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.MemeCat.props
+/home/pc/aspCorePath/memeTest/MemeCat/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.MemeCat.props
+/home/pc/aspCorePath/memeTest/MemeCat/obj/Debug/net8.0/staticwebassets.pack.json
+/home/pc/aspCorePath/memeTest/MemeCat/obj/Debug/net8.0/scopedcss/Components/Layout/MainLayout.razor.rz.scp.css
+/home/pc/aspCorePath/memeTest/MemeCat/obj/Debug/net8.0/scopedcss/bundle/MemeCat.styles.css
+/home/pc/aspCorePath/memeTest/MemeCat/obj/Debug/net8.0/scopedcss/projectbundle/MemeCat.bundle.scp.css
+/home/pc/aspCorePath/memeTest/MemeCat/obj/Debug/net8.0/MemeCat.dll
+/home/pc/aspCorePath/memeTest/MemeCat/obj/Debug/net8.0/refint/MemeCat.dll
+/home/pc/aspCorePath/memeTest/MemeCat/obj/Debug/net8.0/MemeCat.pdb
+/home/pc/aspCorePath/memeTest/MemeCat/obj/Debug/net8.0/MemeCat.genruntimeconfig.cache
+/home/pc/aspCorePath/memeTest/MemeCat/obj/Debug/net8.0/ref/MemeCat.dll
+/home/pc/aspCorePath/memeTest/for Lecture/MemeCat/obj/Debug/net8.0/MemeCat.GeneratedMSBuildEditorConfig.editorconfig
+/home/pc/aspCorePath/memeTest/for Lecture/MemeCat/obj/Debug/net8.0/MemeCat.AssemblyInfoInputs.cache
+/home/pc/aspCorePath/memeTest/for Lecture/MemeCat/obj/Debug/net8.0/MemeCat.AssemblyInfo.cs
+/home/pc/aspCorePath/memeTest/for Lecture/MemeCat/obj/Debug/net8.0/MemeCat.csproj.CoreCompileInputs.cache
+/home/pc/aspCorePath/memeTest/for Lecture/MemeCat/obj/Debug/net8.0/MemeCat.MvcApplicationPartsAssemblyInfo.cache
+/home/pc/aspCorePath/memeTest/for Lecture/MemeCat/obj/Debug/net8.0/MemeCat.dll
+/home/pc/aspCorePath/memeTest/for Lecture/MemeCat/obj/Debug/net8.0/refint/MemeCat.dll
+/home/pc/aspCorePath/memeTest/for Lecture/MemeCat/obj/Debug/net8.0/MemeCat.pdb
+/home/pc/aspCorePath/memeTest/for Lecture/MemeCat/bin/Debug/net8.0/appsettings.Development.json
+/home/pc/aspCorePath/memeTest/for Lecture/MemeCat/bin/Debug/net8.0/appsettings.json
+/home/pc/aspCorePath/memeTest/for Lecture/MemeCat/bin/Debug/net8.0/MemeCat.staticwebassets.runtime.json
+/home/pc/aspCorePath/memeTest/for Lecture/MemeCat/bin/Debug/net8.0/MemeCat
+/home/pc/aspCorePath/memeTest/for Lecture/MemeCat/bin/Debug/net8.0/MemeCat.deps.json
+/home/pc/aspCorePath/memeTest/for Lecture/MemeCat/bin/Debug/net8.0/MemeCat.runtimeconfig.json
+/home/pc/aspCorePath/memeTest/for Lecture/MemeCat/bin/Debug/net8.0/MemeCat.dll
+/home/pc/aspCorePath/memeTest/for Lecture/MemeCat/bin/Debug/net8.0/MemeCat.pdb
+/home/pc/aspCorePath/memeTest/for Lecture/MemeCat/obj/Debug/net8.0/staticwebassets.build.json
+/home/pc/aspCorePath/memeTest/for Lecture/MemeCat/obj/Debug/net8.0/staticwebassets.development.json
+/home/pc/aspCorePath/memeTest/for Lecture/MemeCat/obj/Debug/net8.0/staticwebassets/msbuild.MemeCat.Microsoft.AspNetCore.StaticWebAssets.props
+/home/pc/aspCorePath/memeTest/for Lecture/MemeCat/obj/Debug/net8.0/staticwebassets/msbuild.build.MemeCat.props
+/home/pc/aspCorePath/memeTest/for Lecture/MemeCat/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.MemeCat.props
+/home/pc/aspCorePath/memeTest/for Lecture/MemeCat/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.MemeCat.props
+/home/pc/aspCorePath/memeTest/for Lecture/MemeCat/obj/Debug/net8.0/staticwebassets.pack.json
+/home/pc/aspCorePath/memeTest/for Lecture/MemeCat/obj/Debug/net8.0/scopedcss/Components/Layout/MainLayout.razor.rz.scp.css
+/home/pc/aspCorePath/memeTest/for Lecture/MemeCat/obj/Debug/net8.0/scopedcss/bundle/MemeCat.styles.css
+/home/pc/aspCorePath/memeTest/for Lecture/MemeCat/obj/Debug/net8.0/scopedcss/projectbundle/MemeCat.bundle.scp.css
+/home/pc/aspCorePath/memeTest/for Lecture/MemeCat/obj/Debug/net8.0/MemeCat.genruntimeconfig.cache
+/home/pc/aspCorePath/memeTest/for Lecture/MemeCat/obj/Debug/net8.0/ref/MemeCat.dll
