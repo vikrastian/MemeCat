@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MemeCat")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a4b07608475a1c1172eb4c28efe4e53b557315a7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4db0d9dab95954ce770f7cc44ca1b3b6fb819158")]
 [assembly: System.Reflection.AssemblyProductAttribute("MemeCat")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MemeCat")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
