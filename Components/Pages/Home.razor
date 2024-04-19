@@ -1,9 +1,74 @@
 ﻿@page "/"
+@using MemeCat.Models
+@using MemeCat.Services
+@inject CatService CatService
 
 @rendermode InteractiveServer
 
 <h1>Cat Gallery</h1>
 
-@code {
-    
+@if (cats == null) 
+{
+    <p><em>Loading...</em></p>
 }
+else
+{
+    <div>
+        <h2>Select an emotion:</h2>
+        @foreach (var emotion in uniqueEmotions)
+        {
+            <input type="radio" name="emotion" id="@emotion" value="@emotion"  @onchange="() => UpdateSelectedEmotion(emotion)">
+            <label for="@emotion">@emotion</label>
+            <br>
+        }
+        <button @onclick="ShowImage">Get Image</button>
+    </div>
+    @if (selectedCat != null)
+    {
+        <div>
+            <img src="@selectedCat.Image" alt="@selectedCat.Alt">
+            <p>Emotions: @string.Join(", ", selectedCat.EmotionTags)  </p>
+        </div>
+    }
+}
+
+
+@code {
+    private string selectedEmotion;
+    private CatData? selectedCat;
+    private bool isGifOnly;
+
+    private List<CatData>? cats;
+    private HashSet<string> uniqueEmotions = new HashSet<string>();
+
+    void ShowImage()
+    {
+        foreach (var cat in cats)
+        {
+            foreach (var emotion in cat.EmotionTags)
+            {
+                if (emotion == selectedEmotion)
+                {
+                    selectedCat = cat;
+                }
+            }
+        }
+    }
+    void UpdateSelectedEmotion(string emotion)
+    {
+        selectedEmotion = emotion;
+    }
+    protected override void OnInitialized()
+    {
+        cats = CatService.GetCats();
+        foreach (var cat in cats)
+        {
+            foreach (var emotion in cat.EmotionTags)
+            {
+                uniqueEmotions.Add(emotion);
+            }
+        }
+
+    }
+}
+    using System.Net.Sockets;

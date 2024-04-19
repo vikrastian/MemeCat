@@ -54,3 +54,4 @@
 /home/pc/aspCorePath/memeTest/for Lecture/MemeCat/obj/Debug/net8.0/scopedcss/projectbundle/MemeCat.bundle.scp.css
 /home/pc/aspCorePath/memeTest/for Lecture/MemeCat/obj/Debug/net8.0/MemeCat.genruntimeconfig.cache
 /home/pc/aspCorePath/memeTest/for Lecture/MemeCat/obj/Debug/net8.0/ref/MemeCat.dll
+/home/pc/aspCorePath/memeTest/for Lecture/MemeCat/obj/Debug/net8.0/MemeCat.sourcelink.json
